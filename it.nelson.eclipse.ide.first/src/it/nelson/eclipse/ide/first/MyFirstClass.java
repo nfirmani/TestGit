@@ -11,10 +11,10 @@ public class MyFirstClass {
 	 */
 	public static void main(String[] args) {
 		System.out.println(HELLO);
-		Person persona = new Person("nelson", "firmani");
+		//Person persona = new Person("nelson", "firmani");
 	    int sum = 0;
 	    sum = calculateSum(sum);
-	    System.out.println(sum);  
+	    System.out.println(sum);
 	    // TODO da completare
 	}
 
